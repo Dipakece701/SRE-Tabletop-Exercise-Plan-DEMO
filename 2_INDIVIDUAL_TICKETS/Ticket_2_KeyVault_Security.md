@@ -1,22 +1,22 @@
 PARENT STORY: AB#34970 (Link type: Child | Work item type: Task)
 AREA PATH: Helios\QRE
 
-======================================
+-----------------------------------
 TITLE:
 =====================================
 [INCIDENT SIMULATION] Key Vault Unauthorized Access Spike on helios-dm0-kv (Track B)
 
-======================================
+------------------------------------
 ASSIGNED TO:
 =====================================
 Dipak Singh
 
-=====================================
+-----------------------------------
 TAGS:
 =====================================
 incident, sev-1, security, tabletop, soc2-cc7
 
-=====================================
+------------------------------------
 DESCRIPTION (Copy all lines below):
 =====================================
 Tabletop Incident Simulation — Track B (Security)
