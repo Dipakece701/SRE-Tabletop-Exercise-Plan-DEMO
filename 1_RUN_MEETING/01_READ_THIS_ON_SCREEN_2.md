@@ -37,7 +37,7 @@ Under our interim procedure, our team roster for today's simulation is:
 - Incident Commander: Constantin Pricochi
 - Security Escalation: Constantin Pricochi and Maurice Kennedy
 
-I'll facilitate the discussion and capture our notes and PIR write-up in the 
+I'll facilitate the discussion and capture our notes and PTR write-up in the 
 background. We will walk through two quick scenarios: 
 1. An APIM 5xx gateway failure surge.
 2. A Key Vault unauthorized access alert.
@@ -127,7 +127,7 @@ STEP 4: POST-INCIDENT REVIEW & ACTION ITEMS (35:00 - 55:00)
 ================================================================================
 [Read aloud]:
 
-"Now let's do our 15-minute Post-Incident Review (PIR) and capture our action items 
+"Now let's do our 15-minute Post-Incident Review (PTR) and capture our action items 
 for the SOC 2 audit.
 
 First, what went well?
