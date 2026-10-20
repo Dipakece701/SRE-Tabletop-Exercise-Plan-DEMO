@@ -1,11 +1,11 @@
-================================================================================
+
 SCREEN 2: STEP-BY-STEP FACILITATOR SCRIPT (KEEP THIS OPEN ON 2ND SCREEN)
 ================================================================================
 Meeting: SRE Tabletop Exercise (AB#34970 / SOC 2 CC7)
 Duration: 60 Minutes
 Attendees: Constantin Pricochi, Maurice Kennedy, Aditya Mehta, Dipak Singh
 
---------------------------------------------------------------------------------
+----------------------------------
 BEFORE THE MEETING (5 Minutes Before)
 --------------------------------------------------------------------------------
 1. SCREEN 1 (Your Main Screen):
@@ -17,7 +17,7 @@ BEFORE THE MEETING (5 Minutes Before)
 2. SCREEN 2 (Your 2nd Monitor):
    - Keep THIS script open full screen. Just read down this page!
 
-================================================================================
+-------------------------------
 STEP 1: OPENING THE MEETING (00:00 - 05:00)
 ================================================================================
 [Wait 1-2 minutes for everyone to join, then read aloud]:
@@ -44,7 +44,7 @@ background. We will walk through two quick scenarios:
 
 Let's begin with Scenario A."
 
-================================================================================
+--------------------------------
 STEP 2: SCENARIO A — APIM 5xx FAILURE SURGE (05:00 - 20:00)
 ================================================================================
 [Read aloud]:
@@ -86,7 +86,7 @@ Under Procedure v1.0, we execute our 4-point verification checklist:
 3. Diagnostic KQL: Log Analytics confirms zero 504 errors in last 10 minutes.
 4. I post recovery proof into Slack and resolve the incident record."
 
-================================================================================
+------------------------------------
 STEP 3: SCENARIO B — KEY VAULT SECURITY ALERT (20:00 - 35:00)
 ================================================================================
 [Read aloud]:
@@ -122,7 +122,7 @@ Step 4: How do we verify recovery?
 3. Microsoft Defender marks the incident Mitigated.
 4. Constantin reviews the audit log evidence and signs off on closure."
 
-================================================================================
+-----------------------------
 STEP 4: POST-INCIDENT REVIEW & ACTION ITEMS (35:00 - 55:00)
 ================================================================================
 [Read aloud]:
@@ -142,7 +142,7 @@ We have 4 follow-up action items:
 3. Embed runbook and KQL deep links directly into Slack alert cards (Owner: Aditya).
 4. Automate Key Vault secret rotation and public network deny alerts (Owner: Maurice)."
 
-================================================================================
+---------------------------------
 STEP 5: WRAP-UP & CLOSING (55:00 - 60:00)
 ================================================================================
 [Read aloud]:
@@ -154,7 +154,7 @@ ahead of the October 30 cutoff.
 
 Thanks everyone for your time!"
 
-================================================================================
+-----------------------------
 IF ANYONE ASKS YOU TO CREATE THE TICKETS IN ADO DURING OR AFTER THE CALL:
 ================================================================================
 Just say:
